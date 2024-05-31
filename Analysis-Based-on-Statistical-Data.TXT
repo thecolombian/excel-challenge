@@ -1,0 +1,18 @@
+Analysis Based on Statistical Data
+Determining Whether the Mean or Median Better Summarizes the Data
+Mean vs. Median for Successful Campaigns:
+•	Mean Number of Backers (Successful): 851
+•	Median Number of Backers (Successful): 201
+Mean vs. Median for Unsuccessful Campaigns:
+•	Mean Number of Backers (Unsuccessful): 586
+•	Median Number of Backers (Unsuccessful): 115
+Conclusion:
+•	Successful Campaigns:
+o	The mean number of backers (851) is significantly higher than the median (201). It suggests that the data is skewed, likely with a few campaigns with many backers, pulling the mean upwards. In this case, the median is a better measure of central tendency as it is less affected by outliers and better represents a typical successful campaign.
+•	Unsuccessful Campaigns:
+o	Similarly, the mean (586) for unsuccessful campaigns is much higher than the median (115). It indicates a skewed distribution, with some campaigns having a disproportionately high number of backers. Again, the median provides a more accurate summary of a typical unsuccessful campaign due to its robustness to outliers.
+Variability Analysis
+Standard Deviation: To assess the variability in the number of backers for successful and unsuccessful campaigns, we would ideally calculate the standard deviation. However, based on the provided mean and median values, we can infer significant variability, mainly due to the high difference between the mean and median in both cases.
+Conclusion:
+•	There is more variability in the number of backers for successful and unsuccessful campaigns. The high mean values compared to the median indicate that while most campaigns have backer numbers around the median, a few campaigns have an exceptionally high number of backers, increasing the overall average.
+•	It makes sense because campaigns can vary widely in the appeal, marketing reach, and engagement strategies. Successful campaigns might have a few exceptionally well-performing ones with high backer counts, while unsuccessful ones could still attract substantial attention in isolated cases, leading to skewed averages.
